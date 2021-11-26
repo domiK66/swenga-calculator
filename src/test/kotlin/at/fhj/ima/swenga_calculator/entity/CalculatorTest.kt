@@ -1,6 +1,5 @@
-package at.fhj.ima.swenga_calculator.enitiy
+package at.fhj.ima.swenga_calculator.entity
 
-import at.fhj.ima.swenga_calculator.entity.Calculator
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test
 
